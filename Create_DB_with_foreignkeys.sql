@@ -1,5 +1,4 @@
-use master
-go
+
 
 --eventuell vorhandene datenbankspezifische benutzerdefinierte
 --Fehlermeldungen entfernen
